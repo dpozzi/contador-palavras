@@ -1,0 +1,1 @@
+Arquivo texto para exemplo de como ler arquivo que está disponível na internet.
